@@ -1,11 +1,5 @@
 # MobilePuzzleGame
 
-Download link: Comming soon.
-
-February 23th, 2018:
-  
-  -For now, this is only a prototype. It has one level and no menus. 
- 
-  -Only known bugs are:
-    -When enemy exit a trap, sometimes, it gets caught again. (This is not a feature.)
-    -When a enemy gets elevated with a wall/elevator, it does not go down when he moves again.
+Download link: 
+- Android: https://play.google.com/store/apps/details?id=com.HugoV.CubeEludeNew
+- Apple: https://www.youtube.com/redirect?redir_token=F9ItU9c2UnJDsS4uXsNOKyIv40Z8MTU0MjM3ODkxMUAxNTQyMjkyNTEx&q=https%3A%2F%2Fitunes.apple.com%2Fca%2Fapp%2Fcube-elude%2Fid1412790848%3Fplatform%3Diphone%26preserveScrollPosition%3Dtrue%23platform%2Fiphone&event=video_description&v=THiUY3oDYU4
